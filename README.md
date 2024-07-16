@@ -76,4 +76,4 @@
 
 ---
 <br>
-<img align="jusitfy" src="https://github-readme-streak-stats.herokuapp.com/?user=nishchaykarle&" alt="nishchaykarle" width=1000/>
+<img align="jusitfy" src="https://github-readme-streak-stats.herokuapp.com/?user=nishchaykarle&" alt="nishchaykarle" width=500/>
