@@ -75,5 +75,3 @@
 ![GitHub followers](https://img.shields.io/github/followers/nishchaykarle?label=Follow&style=social)
 
 ---
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishchaykarle&" alt="nishchaykarle" width=500/>
