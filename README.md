@@ -31,7 +31,7 @@
 
 - 💻 Software Engineer
 - 🎓 UChicago CS Grad
-- 💬 Let's talk **Distributed Systems, GPU Programming, High-Performance Computing or Cricket🏏**
+<!-- - 💬 Let's talk **Distributed Systems, GPU Programming, High-Performance Computing or Cricket🏏** -->
   
 - 📫 Reach me at: nishchaykarle@gmail.com
 </br> </br> </br> </br> </br> </br> </br> </br>
